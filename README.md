@@ -1,2 +1,2 @@
-# observer-patttern-realisation
+# observer-pattern-realisation
 Observer pattern 
